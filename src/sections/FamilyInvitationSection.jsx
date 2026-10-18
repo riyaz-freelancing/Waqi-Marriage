@@ -53,7 +53,7 @@ export default function FamilyInvitationSection() {
                 {family.blessingsTitle}
               </span>
 
-              <h3 className="font-script text-3xl sm:text-4xl text-[#8B1233] font-bold tracking-wide mb-1 leading-snug">
+              <h3 className="font-serif text-2xl sm:text-3xl text-[#8B1233] font-bold tracking-wide mb-1 leading-snug">
                 {family.grandparents}
               </h3>
 
@@ -82,7 +82,7 @@ export default function FamilyInvitationSection() {
                 {family.guardianshipTitle}
               </span>
 
-              <h3 className="font-script text-3xl sm:text-4xl text-[#8B1233] font-bold tracking-wide leading-snug">
+              <h3 className="font-serif text-xl sm:text-2xl text-[#8B1233] font-bold tracking-wide leading-snug">
                 {family.guardianName}
               </h3>
             </TiltCard>
